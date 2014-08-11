@@ -1,0 +1,6 @@
+- hosts: localhost
+  roles:
+    - { role: ansible-role-tbb,
+        tbb_older_dir: pathtoanolderversionoftbb,
+        tor_control_pw: controlportpw
+      }
