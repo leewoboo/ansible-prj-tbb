@@ -1,3 +1,5 @@
+*Deprecated!!*
+
 anisible-prj-tbb
 ================
 This [Ansible](http://www.ansible.com) project helps to download and verify [Tor Browser Bundle](https://www.torproject.org/projects/torbrowser.html.en) (TBB) in GNU/Linux.
